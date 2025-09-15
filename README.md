@@ -5,8 +5,6 @@
 Olá, eu sou o Volnei Damasceno, apaixonado por traduzir dados em valor para o negócio.
 Atuo como Analista de Dados, utilizando SQL, Excel, DAX,  Power BI e outras ferramentas para construir análises e dashboards que geram impacto real. Tenho como diferencial o storytelling com dados, garantindo que cada relatório não apenas informe, mas comunique de forma estratégica para diferentes públicos e níveis de decisão.
 
-
-
 <div> 
   <a href="https://instagram.com/o.volneijr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:v.damasceno@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,6 +22,27 @@ Atuo como Analista de Dados, utilizando SQL, Excel, DAX,  Power BI e outras ferr
   <img align="center" alt="Excel" height="30" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ETL" height="30" width="40" src="https://img.icons8.com/?size=100&id=X10esLaMcBb3&format=png&color=33AFF0">
+  
 </div>
 
+---
 
+###  Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Voldam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voldam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
