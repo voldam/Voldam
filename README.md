@@ -14,7 +14,7 @@ Atuo como Analista de Dados, utilizando SQL, Excel, DAX,  Power BI e outras ferr
 
 ---
 
-###  Linguagens e Tecnologias
+###  Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000">
